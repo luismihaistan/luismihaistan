@@ -7,7 +7,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly_x86-000000?style=flat&logo=generic-shared&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-ED6B00?style=flat&logo=mathworks&logoColor=white)
 
 * **Tools:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) 
